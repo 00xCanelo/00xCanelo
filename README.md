@@ -12,15 +12,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=00xCanelo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=00xCanelo&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/00xCanelo/00xCanelo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/00xCanelo/00xCanelo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/00xCanelo/00xCanelo/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
-![Visitor Badge](https://komarev.com/ghpvc/?username=00xCanelo&style=flat-square&color=blue)
+<div align="center">
+  <h2>Live Visitors</h2>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=00xCanelo.00xCanelo" alt="Visitor Badge"/>
+</div>
