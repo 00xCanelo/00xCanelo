@@ -22,3 +22,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/00xCanelo/00xCanelo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/00xCanelo/00xCanelo/output/pacman-contribution-graph.svg">
 </picture>
+---
+![Visitor Badge](https://komarev.com/ghpvc/?username=00xCanelo&style=flat-square&color=blue)
